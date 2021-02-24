@@ -7,6 +7,7 @@ body{
 
 P{
     color:rgb(83, 15, 110);
+    white-space: nowrap;
 }
 
 .about{
@@ -15,9 +16,12 @@ P{
 }
 
 img{ 
+    margin-left: auto;
+    margin-right: auto;
     height: 300px;
     width: 200px;
 }
+
 
 
 .column{
@@ -28,6 +32,8 @@ img{
 }
 
 .card{
+    max-height: 500px;
+    min-height: 500px;
     box-shadow: 0px 4px 6px 0 #b3b3b3f5;
     padding: 0 24px 0 24px;
 }

@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(158, 151, 173);
+}
+
+
+.center-me {
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+}
+
+#prof-display{
+    display: block;
+    width: 200px;
+    height: 200px;
+    margin: 10px auto;
+    border-radius: 50%;
+}
+
+#uname-style{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+}

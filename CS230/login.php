@@ -45,7 +45,8 @@ require 'includes/header.php';
                             required="required">
                     </div>
                     <div class="form-group">
-                        <input type="passwword" class="form-control" name="pwd" placeholder="Password" required="required">
+                        <input type="password" class="form-control" name="pwd" placeholder="Password"
+                            required="required">
                     </div>
                     <div class="form-group">
 
