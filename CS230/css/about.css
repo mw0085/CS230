@@ -2,6 +2,7 @@ body{
 
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
+    background-color: rgb(186, 173, 211);
 
 }
 
@@ -11,7 +12,7 @@ P{
 }
 
 .about{
-    background: rgb(199, 158, 109);
+    background: rgb(186, 173, 211);
     padding:8px;
 }
 
@@ -26,9 +27,10 @@ img{
 
 .column{
     float:left;
-    margin-right: 16px;
-    margin: 10px;
+    margin-right: auto;
+    margin: auto;
     width: 22%
+    
 }
 
 .card{
