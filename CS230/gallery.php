@@ -14,6 +14,7 @@ require 'includes/header.php';
         $sql = "SELECT * FROM gallery ORDER BY upload_date DESC";
         $query = mysqli_query($conn, $sql);
 
+        //puts pid in url, so the rating can be grabbed 
         while($row = mysqli_fetch_assoc($query)){
             echo '<div class = "card">
             <a href = "review.php?id='.$row['pid'].'">

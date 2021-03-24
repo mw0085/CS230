@@ -36,7 +36,7 @@ img{
 }  
     
 .gallery-container a{
-    background-color: rgb(187, 176, 206);
+    background-color:  rgb(168, 158, 184);
     background-position: center;
     background-size: cover;
     border-radius: 10px;
@@ -48,5 +48,5 @@ img{
 }
 
 body{
-    background-image: linear-gradient( rgb(216, 162, 90) ,rgb(102, 87, 128))
+    background-image: linear-gradient( rgb(255, 214, 161) ,rgb(102, 87, 128))
 }

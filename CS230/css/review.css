@@ -1,0 +1,13 @@
+body{
+    background: url('/images/bb8.png') no-repeat left bottom rgb(212, 203, 228);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.form-group{
+    border-radius: 25px;
+    background-color: rgba(245, 222, 179, 0.801);
+    padding: 11px;
+    
+}
+
